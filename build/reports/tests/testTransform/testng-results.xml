@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Gradle suite" duration-ms="50" started-at="2017-12-01T23:15:46Z" finished-at="2017-12-01T23:15:46Z">
+    <groups>
+    </groups>
+    <test name="Gradle test" duration-ms="50" started-at="2017-12-01T23:15:46Z" finished-at="2017-12-01T23:15:46Z">
+      <class name="TransformTest">
+        <test-method status="PASS" signature="testColorShift()[pri:0, instance:TransformTest@32dcc4fb]" name="testColorShift" duration-ms="18" started-at="2017-12-01T17:15:46Z" finished-at="2017-12-01T17:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testColorShift -->
+        <test-method status="PASS" signature="testGreenScreen()[pri:0, instance:TransformTest@32dcc4fb]" name="testGreenScreen" duration-ms="6" started-at="2017-12-01T17:15:46Z" finished-at="2017-12-01T17:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGreenScreen -->
+        <test-method status="PASS" signature="testMystery()[pri:0, instance:TransformTest@32dcc4fb]" name="testMystery" duration-ms="2" started-at="2017-12-01T17:15:46Z" finished-at="2017-12-01T17:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMystery -->
+        <test-method status="PASS" signature="testPositionShifts()[pri:0, instance:TransformTest@32dcc4fb]" name="testPositionShifts" duration-ms="5" started-at="2017-12-01T17:15:46Z" finished-at="2017-12-01T17:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPositionShifts -->
+        <test-method status="PASS" signature="testRotateAndFlip()[pri:0, instance:TransformTest@32dcc4fb]" name="testRotateAndFlip" duration-ms="3" started-at="2017-12-01T17:15:46Z" finished-at="2017-12-01T17:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRotateAndFlip -->
+        <test-method status="PASS" signature="testShrinkOrExpand()[pri:0, instance:TransformTest@32dcc4fb]" name="testShrinkOrExpand" duration-ms="4" started-at="2017-12-01T17:15:46Z" finished-at="2017-12-01T17:15:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShrinkOrExpand -->
+      </class> <!-- TransformTest -->
+    </test> <!-- Gradle test -->
+  </suite> <!-- Gradle suite -->
+</testng-results>

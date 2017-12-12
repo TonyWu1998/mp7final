@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TransformTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-12-01T23:15:46" hostname="wirelessprv-10-192-124-53.near.illinois.edu" time="0.041">
+  <properties/>
+  <testcase name="testColorShift" classname="TransformTest" time="0.018"/>
+  <testcase name="testGreenScreen" classname="TransformTest" time="0.006"/>
+  <testcase name="testMystery" classname="TransformTest" time="0.002"/>
+  <testcase name="testPositionShifts" classname="TransformTest" time="0.005"/>
+  <testcase name="testRotateAndFlip" classname="TransformTest" time="0.003"/>
+  <testcase name="testShrinkOrExpand" classname="TransformTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
